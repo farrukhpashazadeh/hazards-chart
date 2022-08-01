@@ -1,0 +1,20 @@
+.btnHolder {
+  display: flex;
+  justify-content: flex-end;
+  padding: 2rem;
+}
+
+.btnHolder > button {
+  outline: none;
+  background-color: transparent;
+  padding: 0.5rem;
+  border: none;
+}
+
+.allowed {
+  cursor: pointer;
+}
+
+.notAllowed {
+  cursor: not-allowed;
+}

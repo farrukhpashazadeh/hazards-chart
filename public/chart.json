@@ -1,0 +1,135 @@
+[
+  {
+    "timeStart": 1656659584000,
+    "intensity": 1,
+    "lifting": 2.2,
+    "pbStatic": 0.4,
+    "twisting": 1.1
+  },
+  {
+    "timeStart": 1656771184000,
+    "intensity": 0.8,
+    "lifting": 1.4,
+    "pbStatic": 1,
+    "twisting": 0.8
+  },
+  {
+    "timeStart": 1656864784000,
+    "intensity": 0.5,
+    "lifting": 1.3,
+    "pbStatic": 0.8,
+    "twisting": 0.8
+  },
+  {
+    "timeStart": 1657149184000,
+    "intensity": 0.6,
+    "lifting": 1.6,
+    "pbStatic": 1.3,
+    "twisting": 0.9
+  },
+  {
+    "timeStart": 1657242784000,
+    "intensity": 0.5,
+    "lifting": 1.1,
+    "pbStatic": 1.1,
+    "twisting": 0.3
+  },
+  {
+    "timeStart": 1657347184000,
+    "intensity": 1.3,
+    "lifting": 2.5,
+    "pbStatic": 0.4,
+    "twisting": 0.5
+  },
+  {
+    "timeStart": 1657437184000,
+    "intensity": 0.4,
+    "lifting": 0.9,
+    "pbStatic": 0.4,
+    "twisting": 0.5
+  },
+  {
+    "timeStart": 1657519984000,
+    "intensity": 0.8,
+    "lifting": 1.5,
+    "pbStatic": 0.4,
+    "twisting": 0.7
+  },
+  {
+    "timeStart": 1657779184000,
+    "intensity": 0.8,
+    "lifting": 1.2,
+    "pbStatic": 0.5,
+    "twisting": 0.7
+  },
+  {
+    "timeStart": 1657887184000,
+    "intensity": 0.3,
+    "lifting": 0.8,
+    "pbStatic": 0.4,
+    "twisting": 0.4
+  },
+  {
+    "timeStart": 1657977184000,
+    "intensity": 0.8,
+    "lifting": 1,
+    "pbStatic": 0.4,
+    "twisting": 0.7
+  },
+  {
+    "timeStart": 1658056384000,
+    "intensity": 0.6,
+    "lifting": 1.1,
+    "pbStatic": 0.5,
+    "twisting": 0.8
+  },
+  {
+    "timeStart": 1658131984000,
+    "intensity": 0.3,
+    "lifting": 1.2,
+    "pbStatic": 0.4,
+    "twisting": 0.6
+  },
+  {
+    "timeStart": 1658315584000,
+    "intensity": 0.5,
+    "lifting": 0.9,
+    "pbStatic": 0.5,
+    "twisting": 0.6
+  },
+  {
+    "timeStart": 1658416384000,
+    "intensity": 0.3,
+    "lifting": 0.7,
+    "pbStatic": 0.2,
+    "twisting": 0.2
+  },
+  {
+    "timeStart": 1658524384000,
+    "intensity": 0.1,
+    "lifting": 0.6,
+    "pbStatic": 0.5,
+    "twisting": 0.2
+  },
+  {
+    "timeStart": 1658628784000,
+    "intensity": 0.3,
+    "lifting": 0.5,
+    "pbStatic": 0.6,
+    "twisting": 0.4
+  },
+  {
+    "timeStart": 1658722384000,
+    "intensity": 0.1,
+    "lifting": 0.7,
+    "pbStatic": 0.4,
+    "twisting": 0.4
+  },
+  {
+    "timeStart": 1658981584000,
+    "intensity": 0.1,
+    "lifting": 0.4,
+    "pbStatic": 0.4,
+    "twisting": 0.3
+  }
+]

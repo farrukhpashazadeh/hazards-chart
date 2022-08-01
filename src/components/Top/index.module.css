@@ -1,0 +1,14 @@
+.container {
+  position: absolute;
+  z-index: 100;
+  width: 100%;
+}
+
+.textHolder {
+  text-transform: uppercase;
+  border-bottom: 1px solid;
+  padding: 30px 50px;
+  color: #acb0b3;
+  font-size: 30px;
+  font-weight: 500;
+}
